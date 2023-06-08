@@ -2,7 +2,7 @@
 
 <html>
 
-<head> <title> CV </title> </head>
+<head> <b> <i> • CV </i> </b> </head>
 
 <body>
 
